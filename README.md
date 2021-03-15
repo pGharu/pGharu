@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @pGharu
+- 👋 Hi, I’m Pramod Gharu
 - 🌱 I’m currently working at Reveation Labs
 - 💞️ I’m looking to collaborate on SEO and Digital Marketing of Reveation Labs
 - 📫 You can reach to me at Pramod.gharu@reveation.io.
